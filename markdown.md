@@ -3,30 +3,36 @@
 
 # 1. Headers
 ## 1.1. 큰제목: 문서 제목
-	```
-	This is an H1
-	=============
-	```
-	This is an H1
-	=============
+```
+This is an H1
+=============
+```
+This is an H1
+=============
 
 ## 1.2. 작은제목: 문서 부제목
-	```
-	This is an H2
-	-------------
-	```
-	This is an H2
-	-------------
+```
+This is an H2
+-------------
+```
+This is an H2
+-------------
 
 ## 1.3. 글머리: 1~6까지만 지원
-	```
-	# This is a H1
-	## This is a H2
-	### This is a H3
-	#### This is a H4
-	##### This is a H5
-	###### This is a H6
-	```
+```
+# This is a H1
+## This is a H2
+### This is a H3
+#### This is a H4
+##### This is a H5
+###### This is a H6
+```
+# This is a H1
+## This is a H2
+### This is a H3
+#### This is a H4
+##### This is a H5
+###### This is a H6
 
 # 2. BlockQuote
 블럭인용문자(```>```))를 이용한다.
@@ -97,13 +103,11 @@
 * 1단계
 	- 2단계
 		+ 3단계
-			= 4단계
 ```
 
 * 1단계
 	- 2단계
 		+ 3단계
-			= 4단계
 
 # 4. 코드```<pre><code></code></pre>```
 4개의 공백 또는 하나의 탭으로 들여쓰기를 만나면 변환되기 시작하여, 들여쓰지 않은 행을 만날때까지 변환이 계속된다.
